@@ -19,7 +19,7 @@ The environment was designed to:
 * Capture and audit API activity via CloudTrail
 * Generate automated alerts for sensitive S3, IAM, and EC2 actions
 
-# Cloud Structure
+### Cloud Structure
 ```
 emiratesgas.ai
 │
