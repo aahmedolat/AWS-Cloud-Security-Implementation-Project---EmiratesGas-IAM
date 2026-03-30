@@ -20,7 +20,7 @@ The environment was designed to:
 * Generate automated alerts for sensitive S3, IAM, and EC2 actions
 
 # Cloud Structure
-
+```
 emiratesgas.ai
 │
 └── 🔐 Root Account (MFA Enabled)
@@ -71,7 +71,7 @@ emiratesgas.ai
             ├── EC2 Access Restriction
             ├── CloudTrail Logging Enabled
             └── Real-Time Alerting
-
+```
 ---
 
 ## 2. Governance and Account Security
