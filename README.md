@@ -267,6 +267,26 @@ The solution is:
 
 ---
 
+## Screenshot
+
+1. [AWS IAM Admin user MFA enabled](https://github.com/aahmedolat/AWS-Cloud-Security-Implementation-Project---EmiratesGas-IAM/blob/main/screenshots/01_AWS_IAM_Admin.png)
+2. [AWS IAM groups created](https://github.com/aahmedolat/AWS-Cloud-Security-Implementation-Project---EmiratesGas-IAM/blob/main/screenshots/02_AWS_IAM_Groups.png)
+3. [AWS IAM users created](https://github.com/aahmedolat/AWS-Cloud-Security-Implementation-Project---EmiratesGas-IAM/blob/main/screenshots/03__AWS_IAM_Users.png)
+4. [AWS s3 buckets created](https://github.com/aahmedolat/AWS-Cloud-Security-Implementation-Project---EmiratesGas-IAM/blob/main/screenshots/04__AWS_S3_Buckets.png)
+5. [Abu Dhabi s3 bucket uploaded document sample](https://github.com/aahmedolat/AWS-Cloud-Security-Implementation-Project---EmiratesGas-IAM/blob/main/screenshots/05_AWS_S3_Bucket_AbuDhabi.png)
+6. [AWS EC2 instances created](https://github.com/aahmedolat/AWS-Cloud-Security-Implementation-Project---EmiratesGas-IAM/blob/main/screenshots/06__AWS_EC2_Instances.png)
+7. [AWS ClloudTrail event trail created](https://github.com/aahmedolat/AWS-Cloud-Security-Implementation-Project---EmiratesGas-IAM/blob/main/screenshots/07_AWS_CloudTrail_EventTrail.png)
+8. [AWS SNS topic created](https://github.com/aahmedolat/AWS-Cloud-Security-Implementation-Project---EmiratesGas-IAM/blob/main/screenshots/08_AWS_SNS_Topic.png)
+9. [AWS EventBridge created](https://github.com/aahmedolat/AWS-Cloud-Security-Implementation-Project---EmiratesGas-IAM/blob/main/screenshots/09_AWS_EventBridge.png)
+10. [AWS IAM custom policy script sample](https://github.com/aahmedolat/AWS-Cloud-Security-Implementation-Project---EmiratesGas-IAM/blob/main/screenshots/10__AWS_IAM_Policy.png)
+11. [AWS IAM policy defined on all groups](https://github.com/aahmedolat/AWS-Cloud-Security-Implementation-Project---EmiratesGas-IAM/blob/main/screenshots/11__AWS_IAM_Policy_Defined.png)
+12. [Abu Dhabi user (James) access buckets list](https://github.com/aahmedolat/AWS-Cloud-Security-Implementation-Project---EmiratesGas-IAM/blob/main/screenshots/12_AWS_S3_BucketList_AbuDhabi_User.png)
+13. [Abu Dhabi user (James) allowed access to Abu Dhabi bucket](https://github.com/aahmedolat/AWS-Cloud-Security-Implementation-Project---EmiratesGas-IAM/blob/main/screenshots/13_AWS_S3_Bucket_AbuDhabi_AllowedAccess.png)
+14. [Abu Dhabi user (James) denied access to Dubia bucket](https://github.com/aahmedolat/AWS-Cloud-Security-Implementation-Project---EmiratesGas-IAM/blob/main/screenshots/14_AWS_S3_Bucket_Dubai_DeniedAccess.png)
+15. [Abu Dhabi user (James) denied access to Sharjah bucket](https://github.com/aahmedolat/AWS-Cloud-Security-Implementation-Project---EmiratesGas-IAM/blob/main/screenshots/15_AWS_S3_Bucket_Sharjah_DeniedAccess.png)
+
+---
+
 ## 👨‍💻 Author
 
 **Ahmed Olatunji** — Cybersecurity Analyst
